@@ -3,7 +3,7 @@
     "description": "A virion that simplifies writing tasks that traverse iterators",
     "type": "library",
     "license": "GPL-3.0",
-    "require": {
+    "require-dev": {
         "pocketmine/pocketmine-mp": "^5.0.0"
     },
     "autoload": {
